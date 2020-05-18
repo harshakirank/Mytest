@@ -1,1 +1,1 @@
-{"main":"mytest.raml","name":"Mytest","classifier":"raml","tags":[]}
+{"main":"mytest.raml","name":"Mytest","classifier":"raml","tags":[],"dependencies":[{"groupId":"3310f018-f18d-4282-b336-60c68e4971bc","assetId":"acmecustomerdatatype","version":"1.0.0"}]}
